@@ -1,0 +1,20 @@
+.nav-link{
+    font-size: 20p;
+    margin-right: 22px;
+}
+.navbar{
+    border-bottom: solid 5px #3292a6;
+}
+header{
+    min-height: 85vh;
+    background-image:linear-gradient(rgba(50, 146, 166,.6),rgba(50, 146, 166,.6)), url(../imges/mountains.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.auther img{
+    margin-top: -75px;
+    margin-bottom: 15px;
+}
+.card{
+    height: 150px; ;
+}
